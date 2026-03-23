@@ -1,4 +1,4 @@
-# 🎲 Marble Betting Game (Python)
+# 🎲 Marble Betting Game
 
 A simple Python game where you **bet money and draw random marbles** to win or lose.
 
