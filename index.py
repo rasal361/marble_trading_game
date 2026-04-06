@@ -12,7 +12,6 @@
     #Win or loss
     #Calc win or loss/ result and new amount/purse
     #Lose game if lose half of money
-    #Print results
 #Print final results    
 
 
